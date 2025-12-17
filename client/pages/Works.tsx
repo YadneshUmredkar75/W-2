@@ -182,7 +182,7 @@ export default function Works() {
       </section>
 
       {/* Completed Works */}
-      <section className="py-12 bg-gray-50">
+      {/* <section className="py-12 bg-gray-50">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-primary mb-8 marathi flex items-center gap-2">
             <CheckCircle size={32} className="text-green-600" />
@@ -221,7 +221,7 @@ export default function Works() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Approved Works */}
       <section className="py-12 container mx-auto px-4">

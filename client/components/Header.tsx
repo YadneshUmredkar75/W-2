@@ -8,12 +8,12 @@ export default function Header() {
   const navItems = [
     { label: "मुख्य पृष्ठ", href: "/" },
     { label: "गावाची माहिती", href: "/village-profile" },
-    { label: "समिती", href: "/committee" },
+    // { label: "समिती", href: "/committee" },
     { label: "योजना", href: "/schemes" },
     { label: "विकास कामे", href: "/works" },
     { label: "सेवा", href: "/services" },
     { label: "गॅलरी", href: "/gallery" },
-    { label: "सरकारी अधिकारी", href: "/govt-officials" },
+    // { label: "सरकारी अधिकारी", href: "/govt-officials" },
     { label: "संपर्क", href: "/contact" },
   ];
 

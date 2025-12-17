@@ -150,11 +150,11 @@ export default function Index() {
         { label: "एकूण लोकसंख्या", value: "902", icon: <UsersIcon className="w-8 h-8" /> },
         { label: "पुरुष", value: "479", icon: <Users className="w-8 h-8" /> },
         { label: "स्त्रिया", value: "423", icon: <Users className="w-8 h-8" /> },
-        { label: "घरे", value: "185", icon: <Home className="w-8 h-8" /> },
-        { label: "शेतजमीन (एकर)", value: "450", icon: <Map className="w-8 h-8" /> },
-        { label: "विहिर", value: "12", icon: <Droplet className="w-8 h-8" /> },
-        { label: "बोअरवेल", value: "28", icon: <Factory className="w-8 h-8" /> },
-        { label: "शाळा", value: "2", icon: <School className="w-8 h-8" /> },
+        // { label: "घरे", value: "185", icon: <Home className="w-8 h-8" /> },
+        // { label: "शेतजमीन (एकर)", value: "450", icon: <Map className="w-8 h-8" /> },
+        // { label: "विहिर", value: "12", icon: <Droplet className="w-8 h-8" /> },
+        // { label: "बोअरवेल", value: "28", icon: <Factory className="w-8 h-8" /> },
+        // { label: "शाळा", value: "2", icon: <School className="w-8 h-8" /> },
     ];
 
     const facilities = [
@@ -567,7 +567,8 @@ export default function Index() {
                             <h4 className="text-2xl font-bold text-primary marathi">
                                 श्री. रुपेश सिताराम जाधव
                             </h4>
-                            <p className="text-blue-600 text-xl font-bold mt-2">उपसरपंच</p>
+                            <p className="text-blue-600 text-xl font-bold mt-2">उपसरपंच देवळी पेंढरी
+</p>
                             <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-200">
                                 <p className="text-gray-700 font-medium">मोबाईल: 9359987542</p>
                             </div>
